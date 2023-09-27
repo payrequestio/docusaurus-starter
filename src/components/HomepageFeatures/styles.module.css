@@ -9,3 +9,10 @@
   height: 200px;
   width: 200px;
 }
+
+
+// custom jan
+.hero--primary {
+    --ifm-hero-background-color: #257dc2;
+    --ifm-hero-text-color: #fff;
+}
