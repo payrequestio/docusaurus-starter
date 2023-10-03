@@ -6,8 +6,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'PayRequest.dev',
-  tagline: 'Official PayRequest Documentation',
+  title: 'PayRequest Developer',
+  tagline: 'Official PayRequest Developer Documentation',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
@@ -17,7 +17,7 @@ const config = {
   baseUrl: '/',
 
   // GitHub pages deployment config.
-  // If you aren't using GitHub pages, you don't need these.
+  //You don't need these if you aren't using GitHub pages.
   organizationName: 'PayRequest', // Usually your GitHub org/user name.
   projectName: 'docusaurus', // Usually your repo name.
 
@@ -64,7 +64,7 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'PayRequest.dev',
+        title: 'PayRequest Developer',
         logo: {
           alt: 'My Site Logo',
           src: 'img/logo.svg',
@@ -127,7 +127,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} PayRequest.dev Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} PayRequest Developer`,
       },
       prism: {
         theme: lightCodeTheme,
