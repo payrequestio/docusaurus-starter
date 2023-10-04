@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'PayRequest Developer',
   tagline: 'Official PayRequest Developer Documentation',
-  favicon: 'img/favicon.ico',
+  favicon: 'https://payrequest.io/wp-content/uploads/2022/10/favicon.png',
 
   // Set the production url of your site here
   url: 'https://payrequest.dev',
@@ -62,12 +62,12 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       // Replace with your project's social card
-      image: 'img/docusaurus-social-card.jpg',
+      image: 'https://payrequest.io/wp-content/uploads/2022/10/favicon.png',
       navbar: {
         title: 'PayRequest Developer',
         logo: {
           alt: 'My Site Logo',
-          src: 'img/logo.svg',
+          src: 'https://payrequest.io/wp-content/uploads/2022/10/favicon.png',
         },
         items: [
           {
