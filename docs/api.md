@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# PayRequest API Introduction
+# PayRequest Developer Introduction
 
 The PayRequest API is created with simplicity in mind. Cost (and time) efficiency to get you where you want to be! Our API works with POST variables but will also work if you send your variables JSON-encoded in the body. We will return JSON-encoded responses ( if not stated otherwise ).
 
