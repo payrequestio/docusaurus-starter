@@ -4,6 +4,10 @@ sidebar_position: 1
 
 # PayRequest API
 
+The PayRequest API is created with simplicity in mind. Cost (and time) efficiency to get you where you want to be! Our API works with POST variables but will also work if you send your variables JSON-encoded in the body. We will return JSON-encoded responses ( if not stated otherwise ).
+
+Authentication will be done with  an API key which we will call token.
+
 Add **Markdown or React** files to `src/pages` to create a **standalone page**:
 
 - `src/pages/index.js` → `localhost:3000/`
